@@ -1,11 +1,5 @@
 # 💫 About Me
-<p align="center">
-  <img src="https://media.giphy.com/media/UQuqOTa4lqBVqlA3iC/giphy.gif?cid=ecf05e4733oz7ilenkpxd9mlwqyx15uwy7clr3bq4ahch059&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" />
-</p>
-
-<p align="center">
-  <b>Halo! Saya <em>Fathur Robbany Pulung Wijaya</em></b>, seorang mahasiswa Teknik Informatika di Universitas Muhammadiyah Surakarta (angkatan 2022), dengan minat dan keahlian di bidang <em>Front-End Web Development</em> dan <em>desain grafis</em>.
-</p>
+Halo! Saya **Fathur Robbany Pulung Wijaya**, seorang mahasiswa Teknik Informatika di Universitas Muhammadiyah Surakarta (angkatan 2022), dengan minat dan keahlian di bidang **Front-End Web Development** dan **desain grafis**.
 
 💻 **Keahlian teknis yang saya miliki meliputi:**
 
